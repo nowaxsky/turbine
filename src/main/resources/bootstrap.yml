@@ -13,6 +13,6 @@ spring:
 
 #server setting
 server: 
-  port: 8080
+  port: 8300
 management: 
-  port: 28080
+  port: 28300
