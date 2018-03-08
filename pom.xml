@@ -14,13 +14,13 @@
 	</parent>
 
 	<dependencies>
-        <!-- hystrix dashboard -->
+		<!-- hystrix dashboard -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-netflix-hystrix-dashboard</artifactId>
 		</dependency>
 
-        <!-- turbine -->
+		<!-- turbine -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-turbine</artifactId>
