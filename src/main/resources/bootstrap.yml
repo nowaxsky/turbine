@@ -16,3 +16,7 @@ server:
   port: 8300
 management: 
   port: 28300
+
+#logging file
+logging: 
+  file: D:/zwl/logs/turbine/turbine.log
